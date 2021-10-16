@@ -170,7 +170,7 @@ sudo docker run mirrorbot
 Fork this repo then upload **token.pickle** to your forks
 
 **NOTE**: If you didn't upload **token.pickle**, uploading will not work.
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/SiD1907046/priiiyo-mirror-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
 
 ## Deploying on Heroku using heroku-cli
 <details>
